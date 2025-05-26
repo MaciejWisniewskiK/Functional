@@ -6,7 +6,6 @@ cabal-version:       >=1.10
 name:                mw448595-zadanie2
 version:             0.1.0.0
 synopsis:            Combinator Expression Reduction
-license-file:        LICENSE
 author:              MaciejWisniewskiK
 maintainer:          maciej.wisniewski.k@gmail.com
 build-type:          Simple
